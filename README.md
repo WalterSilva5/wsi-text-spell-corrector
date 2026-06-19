@@ -1,6 +1,6 @@
 # WSI - Corretor Ortográfico
 
-Este programa carrega um modelo de processamento de linguagem natural (NLP) e um dicionário Hunspell para realizar correção ortográfica em um texto em português. Ele corrige cada token (palavra) do texto, sugerindo a correção mais provável se a palavra estiver incorreta.
+Este programa carrega um modelo de processamento de linguagem natural (NLP) e um dicionário Hunspell para realizar correção ortográfica em um texto em português. Ele corrige cada palavra do texto, sugerindo a correção mais provável se a palavra estiver **incorreta**.
 
 # Setup
 
